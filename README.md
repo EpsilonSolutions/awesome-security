@@ -174,6 +174,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Other Security Awesome Lists
 
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
+- [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
 
 ### Other Common Awesome Lists
 
