@@ -174,6 +174,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Other Security Awesome Lists
 
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
+- [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
 
 ### Other Common Awesome Lists
 
